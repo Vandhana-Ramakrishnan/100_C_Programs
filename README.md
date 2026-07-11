@@ -11,3 +11,6 @@ This repository documents my journey of solving 100 C programming problems to bu
 - Prepare for microcontroller programming
 
 Started: July 11 2026
+
+Date : 11th July 2026
+Did 5 programs...just the basics but yeah...I am proud of the first step.
